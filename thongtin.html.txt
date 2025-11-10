@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Thông Tin</title>
+</head>
+<body>
+    <h1>Thông Tin về các dịch vụ cày thuê,nạp game mà chúng tôi có</h1>
+    
+    <p>Đây là nơi mô tả thông tin chi tiết về dịch vụ.</p>
+
+    <ul>
+        <li><a href="trangchu.html">Trang Chủ</a></li>
+        <li><a href="thongtin.html">Thông Tin</a></li>
+        <li><a href="dichvu.html">Dịch Vụ</a></li>
+    </ul>
+    
+    <hr>
+    <p>Liên hệ: 0343419360
+gmail: minhnhan2221@gmail.com</p>
+</body>
+</html>
